@@ -379,7 +379,7 @@ The script uses the main().catch() pattern to handle errors in the asynchronous 
 
 ## Authors
 
-Shubham Kumar
+Supratik mishra
 
 ## License
 
